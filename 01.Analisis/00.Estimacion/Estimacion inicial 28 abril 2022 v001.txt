@@ -1,0 +1,45 @@
+WEB		       										   10 hrs TOTALES
+- Login			2 hrs
+- Dashboard		1 hrs
+- Citas			5 hrs
+- Resumen Citas		2 hrs
+ 
+API		        3.0 hrs TOTAL								   11.5 hrs TOTAL
+- API 
+	- SourceController
+		- doctores	0.5 hrs 
+		- usuarios 	0.5 hrs
+	- Cita
+		- citas (query)	0.5 hrs
+		- citas (alta)	0.5 hrs
+		- citas\disponibilidad 0.5 hrs
+			
+- Negocio			5.5 hrs TOTAL
+	- Catalogos
+		- Doctor	0.5 hrs
+		- Estatus	0.5 hrs
+		- Usuario	0.5 hrs
+	- Citas
+		- Cita		0.5 hrs
+	- DataAccess
+		- Catalogos 
+			- DoctorRegistroCommand  1.0 hrs
+		- Citas
+			- CitaRegistroCommand	  1.0 hrs
+			- CitaDisponibilidadQuery 0.5 hrs
+			- CitaQuery		  1.0 hrs
+
+- Infraestructura               3.0 hrs TOTAL
+	- Catalogos
+		- DoctorMap     0.5 hrs
+		- EstatusMap    0.5 hrs
+		- UsuarioMap    0.5 hrs
+	- Citas
+		- CitaMap	0.5 hrs
+
+* estructura orm*		1.00 hrs
+
+BD													1.00 hrs			
+
+* Cita solo 1 hora
+* Disponible desde 10 am a 5 pm (7 citas al día)

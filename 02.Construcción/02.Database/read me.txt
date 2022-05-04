@@ -1,0 +1,10 @@
+Base de Datos con flyway-8.5.1
+
+- Abrir carpeta "flyway-8.5.1" que está en:
+	 "CitasMedicas\02.Construcción"
+- Cambiar conexión a SQL Server en archivo "flyway.conf"
+  que está en carpeta config.
+- Dentro de "flyway-8.5.1" ejecutar command prompt
+- En consola, ejecutar "flyway migrate"
+
+Listo!

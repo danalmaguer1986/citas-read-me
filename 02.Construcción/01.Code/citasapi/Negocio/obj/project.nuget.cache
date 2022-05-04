@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XsmXkCIbNIj6v0ZJcHEL5nBBN+zTK6IV9no57io471CsP/HYnrvI7BqYjBD9RmNtD8EMlQpOuC521P1aAyrkFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daniel.almaguer\\source\\repos\\sistemacitas-api\\Negocio\\Negocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniel.almaguer\\.nuget\\packages\\csharpfunctionalextensions\\2.29.1\\csharpfunctionalextensions.2.29.1.nupkg.sha512",
+    "C:\\Users\\daniel.almaguer\\.nuget\\packages\\timezoneconverter\\5.0.0\\timezoneconverter.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
